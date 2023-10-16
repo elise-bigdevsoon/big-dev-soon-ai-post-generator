@@ -29,11 +29,11 @@ Embark on an enriching journey with **AI Post Generator**, where user intent mee
 - Research and integrate with the [OpenAI API](https://platform.openai.com/docs/introduction), focusing on understanding the importance of prompts. Ensure the API key is stored securely as an environment variable.
 - Implement a central layout according to the provided Figma design, prominently displaying the title "Generate your post". Ensure the UI is responsive across various devices.
 - Add selector icons for each social platform, enhancing interactivity by allowing only one platform selection at a time.
-- Develop a Message Input Area that permits users to input up to 200 characters and showcases an active state with a live character count.
-- Introduce two separate selectors: "Tone of Voice" and "Post Style", ensuring users can choose one option from each category.
-- Integrate a "Generate Post" button that remains disabled until all prior selections are completed. Once activated and pressed, it should take the user to the "Your generated post" view, making an API call with the collected input.
-- Add a loading phase utilizing the "Typist" animation. Begin with just the animated typing cursor, and upon receiving the API's content, initiate the typewriter effect. Upon completion, provide a "copy post" function, supported by icons that indicate the copy/copied status.
-- Incorporate "Back to Generator" and "Regenerate" buttons. These should be inactive during the post loading stage. The "Back to Generator" button should redirect users to the prior view with preserved input, while the "Regenerate" button should restart the content generation process.
+- Develop a message text input that permits users to input up to 200 characters and showcases an active state with a live character count.
+- Introduce two separate selectors: "Tone of voice" and "Post style", ensuring users can choose one option from each category.
+- Integrate a "Generate Post" button that remains disabled until all prior selections are completed. Once activated and pressed, it should take the user to the "Your generated post" view, making an API call with a dynamically crafted prompt based on the provided input.
+- Change the title to "Your generated post" and add a loading phase utilizing the "Typist" animation. Start by showing just the animated typing cursor, and upon receiving the API's content, initiate the typewriter effect. Additionally, display non-functional, disabled "Back to Generator" and "Regenerate" buttons.
+- Upon content being loaded, enable both buttons and copy icon next to the text. The "Back to Generator" button should redirect users to the prior view with preserved input, while the "Regenerate" button should restart the content generation process.
 
 ## Project assets
 
