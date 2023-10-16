@@ -16,13 +16,13 @@ Embark on an enriching journey with **AI Post Generator**, where user intent mee
 
 ### What you will learn
 
-**API Configuration and Mastery**: Dive into the OpenAI API, understanding its structure and functionality. Grasp the art of crafting meaningful prompts to guide AI in generating the desired content.
+- **API Configuration and Mastery**: Dive into the OpenAI API, understanding its structure and functionality. Grasp the art of crafting meaningful prompts to guide AI in generating the desired content.
 
-**Interactive UI Development**: Engage in creating an intuitive user interface that responds to various user interactions, from simple button presses to dynamic content generation.
+- **Interactive UI Development**: Engage in creating an intuitive user interface that responds to various user interactions, from simple button presses to dynamic content generation.
 
-**Advanced Content Presentation**: Learn to seamlessly blend user inputs with AI-generated content, ensuring smooth transitions with tools like the Typist animation, and master the nuances of data validation.
+- **Advanced Content Presentation**: Learn to seamlessly blend user inputs with AI-generated content, ensuring smooth transitions with tools like the Typist animation, and master the nuances of data validation.
 
-**Understanding AI Prompts**: Deepen your grasp of how AI interprets user commands, and hone your skills in refining prompts to obtain the most accurate and relevant responses.
+- **Understanding AI Prompts**: Deepen your grasp of how AI interprets user commands, and hone your skills in refining prompts to obtain the most accurate and relevant responses.
 
 ### Requirements
 
