@@ -47,7 +47,7 @@ Depending on the mode you pick, different assets will be available:
 
 ## How to start
 
-1. Head over to the [project page](https://app.bigdevsoon.me/projects/just-weather). Choose between Freerun or Speedrun mode, then click either the "Start Freerun" or "Start Speedrun" button.
+1. Head over to the [project page](https://app.bigdevsoon.me/projects/ai-post-generator). Choose between Freerun or Speedrun mode, then click either the "Start Freerun" or "Start Speedrun" button.
 2. Familiarize yourself with the provided images in the "Assets" section. Optionally, you can download the starter code for the initial boilerplate.
 3. For a full project experience, consider downloading the Figma design.
 4. Dive deep into this `README.md`. It covers everything from implementation hints and project guidelines to how to submit your final piece.
